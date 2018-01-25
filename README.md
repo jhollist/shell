@@ -65,5 +65,8 @@
 ![](http://i.imgur.com/8NFIwoC.png)
 
 # File names and naming conventions
+1. No spaces
+2. suffixes
+3. case is a bit weird...  I keep all lower just to be safe.
 
 
